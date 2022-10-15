@@ -11,7 +11,7 @@ body {
       justify-content: center;
     width: 100%;
     height: auto;
-    padding: 25px 0px 90px 0;
+    padding: 25px 0px 80px 0;
     
   }
   nav {
@@ -172,7 +172,7 @@ body {
     text-align: center;
     flex-grow: 0;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     padding: 8px 22px;
     border-radius: 8px;
@@ -223,14 +223,14 @@ body {
       flex-direction: column;
       justify-content: space-between;
       padding-top: 50px;
-      padding-bottom: 50px;
+      padding-bottom: 0px;
       gap: 50px;
       
   
     }
   .projectText {
-    width: 181px;
-    height: 120px;
+    width: 100%;
+    height: auto;
     display: flex;
     padding-top: 30px;
     font-family: PlayfairDisplay;
@@ -609,7 +609,6 @@ padding-top: 30%;
         width: 100%;
         height: auto;
         display: flex;
-        align-self: column;
         justify-content: center;
         align-items: center;
         align-content: center;
@@ -630,7 +629,7 @@ padding-top: 30%;
     align-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 0 0 0 40px;
+    padding: 0 0 0 42px;
     
     
   }
